@@ -13,7 +13,7 @@ Open index.html to any browser and play. Try to make less than 40 moves to win!
 
 This game uses the following libraries:
 
-Sweetalert2 - https://sweetalert2.github.io/
-Fontawesome.io - https://fontawesome.com
-Google Fonts - https://fonts.google.com
-Jquery - https://cdnjs.com/libraries/jquery/
+* Sweetalert2 - https://sweetalert2.github.io/
+* Fontawesome.io - https://fontawesome.com
+* Google Fonts - https://fonts.google.com
+* Jquery - https://cdnjs.com/libraries/jquery/
